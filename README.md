@@ -9,8 +9,11 @@ Welcome to the Car Sales Market!
 
 Menu:
 a. Buy Cars
+
 b. View Cars Stock
+
 c. View Sales Data
+
 x. Exit
 
 Please choose one: 

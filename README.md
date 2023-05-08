@@ -56,6 +56,7 @@ There are 99 cars remaining.
 
 Press Enter to return to the Menu...
 
+
 Option b
 -----------------------
 TESLA - 30 - 30000.000000
@@ -71,6 +72,7 @@ MERCEDES - 10 - 25000.000000
 
 Press Enter to return to the Menu...
 
+
 Option c
 -----------------------
 All Sales Data:
@@ -80,6 +82,7 @@ Sale Index: 1 | Type of Car: AUDI | Number of Cars: 1 | Sale Amount: 15000.00000
 
 
 Press Enter to return to the Menu...
+
 
 Option x
 -----------------------

@@ -1,2 +1,2 @@
 # CarSales
-This is my first programme where I was learning my first programming language namely C.
+This is my first university project where I studied the basics of programming languages. This project gave me a strong foundation in understanding programming languages.

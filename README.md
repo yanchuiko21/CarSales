@@ -17,7 +17,8 @@ c. View Sales Data
 
 x. Exit
 
-Please choose one: 
+Please choose one:
+
 
 Option a
 -----------------------

@@ -8,6 +8,7 @@ This is Car Sales Market, where customer can view cars stock and choose car that
 Welcome to the Car Sales Market!
 
 Menu:
+
 a. Buy Cars
 
 b. View Cars Stock
@@ -28,10 +29,15 @@ What is your name? Name: Yan
 How many cars do you need? Amount: 1
 
 Car Types:
+
 0 - CHEVROLET
+
 1 - AUDI
+
 2 - FORD
+
 3 - MERCEDES
+
 4 - TESLA
 
 What type of car do you need? Choose from above: 1
@@ -50,9 +56,13 @@ Press Enter to return to the Menu...
 
 # Option b
 TESLA - 30 - 30000.000000
+
 CHEVROLET - 25 - 10000.000000
+
 FORD - 20 - 20000.000000
+
 AUDI - 14 - 15000.000000
+
 MERCEDES - 10 - 25000.000000
 
 

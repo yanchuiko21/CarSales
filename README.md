@@ -1,2 +1,2 @@
 # CarSales
-University project that was written on C
+This is my first programme where I was learning my first programming language namely C.

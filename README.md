@@ -2,4 +2,4 @@
 This is my university project where I was learning new programming language namely C.
 
 # What is this programme?
-This is Car Sales Market, where customer can view cars stock and choose car that he wanted and buy it. After purchase, he can go to sales data and check what model he bought and for what price. After all process, data stores to file.
+This is Car Sales Market. The point of the application is to create a visualization of real-world car market. This is a console programme that has a simple features like buy cars, view stock and view sales data. All data that user input stores in database in my case is csv file.
